@@ -16,14 +16,14 @@
     "webpack-cli": "^4.9.1"
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.2.0",
+    "@typescript-eslint/parser": "^5.2.0",
     "@vue/cli-plugin-babel": "^5.0.0-beta.6",
     "@vue/cli-plugin-eslint": "^5.0.0-beta.6",
     "@vue/cli-plugin-typescript": "^5.0.0-beta.6",
     "@vue/cli-service": "^5.0.0-beta.6",
     "@vue/eslint-config-airbnb": "^4.0.0",
     "@vue/eslint-config-typescript": "^5.1.0",
-    "@typescript-eslint/eslint-plugin": "^5.2.0",
-    "@typescript-eslint/parser": "^5.2.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^7.20.0",
